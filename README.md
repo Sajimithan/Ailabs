@@ -27,8 +27,8 @@ This project is organized as a monorepo consisting of:
 - **Language**: TypeScript
 
 ### Backend
-- **Node.js**: Express-based API.
-- **Java**: Robust backend services.
+- **Spring Boot**: Robust Java-based backend services for high-performance computing and secure API handling.
+- **Node.js**: Express-based API for core application logic.
 
 ## 💻 Getting Started
 
